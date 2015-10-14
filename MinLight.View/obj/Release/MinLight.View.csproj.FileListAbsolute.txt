@@ -1,0 +1,12 @@
+E:\Data\MinLight\MinLight\MinLight.View\bin\Release\MinLight.View.exe
+E:\Data\MinLight\MinLight\MinLight.View\bin\Release\MinLight.View.pdb
+E:\Data\MinLight\MinLight\MinLight.View\bin\Release\MinLight.exe
+E:\Data\MinLight\MinLight\MinLight.View\bin\Release\MinLight.pdb
+E:\Data\MinLight\MinLight\MinLight.View\obj\Release\MinLight.View.csprojResolveAssemblyReference.cache
+E:\Data\MinLight\MinLight\MinLight.View\obj\Release\MinLight.View.Properties.Resources.resources
+E:\Data\MinLight\MinLight\MinLight.View\obj\Release\MinLight.View.ViewForm.resources
+E:\Data\MinLight\MinLight\MinLight.View\obj\Release\MinLight.View.csproj.GenerateResource.Cache
+E:\Data\MinLight\MinLight\MinLight.View\obj\Release\MinLight.View.exe
+E:\Data\MinLight\MinLight\MinLight.View\obj\Release\MinLight.View.pdb
+E:\Data\MinLight\MinLight\MinLight.View\bin\Release\cornellbox.txt
+E:\Data\MinLight\MinLight\MinLight.View\bin\Release\MinLight.View.exe.config
